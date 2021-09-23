@@ -11,3 +11,4 @@
    - BOOTSTRAP 5 (https://getbootstrap.com/docs/5.1/getting-started/introduction/)
    - BOOTSTRAP ICONS (https://icons.getbootstrap.com/) 
    - AUTOPREFIXER (https://www.npmjs.com/package/sass-autoprefixer)
+   - SASS-LOADER https://www.npmjs.com/package/sass-loader
